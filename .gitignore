@@ -1,0 +1,5 @@
+.DS_Store
+.ex1.rb.swp
+.idea/
+.rspec
+Gemfile.lock
